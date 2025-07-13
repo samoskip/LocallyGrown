@@ -1,5 +1,8 @@
 /* Container & backgrounds */
 
+body{
+    font-size: 1.2em;
+}
 
 .hero-section {
     background-image: url('../img/bg2.jpg');
